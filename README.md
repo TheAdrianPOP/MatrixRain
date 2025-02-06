@@ -26,14 +26,14 @@ This project is a simple, customizable "Matrix Rain" terminal simulation written
 2.  **Compilation:**
 
     ```bash
-    g++ -o MatrixEffect Windows.cpp -pthread
+    g++ -o MatrixRain Windows.cpp -pthread
     ```
     *   **`-pthread` is crucial:**  This links the pthreads library, which enables parallel processing for smoother animation.
 
 3.  **Running:**
 
     ```bash
-    ./MatrixEffect
+    ./MatrixRain
     ```
 
 4.  **Build with CMake**
