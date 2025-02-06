@@ -100,5 +100,5 @@ Feel free to contribute to the project. If you find any bugs or have any ideas f
 
 ## License
 
-This project is licensed under the [MIT License](LICENCE).
+This project is licensed under the [MIT License](LICENSE).
 
